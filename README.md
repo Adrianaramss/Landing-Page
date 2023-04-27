@@ -1,5 +1,5 @@
 # 📖 Sobre o projeto
-Criação de uma landing page simples é uma ótima maneira para uma empresa fictícia apresentar seus planos, preços e valores aos clientes. Essa aplicação pode ser efetiva para destacar os principais benefícios dos produtos ou serviços oferecidos pela empresa. Além disso, um layout limpo e organizado pode ajudar a transmitir a mensagem de forma clara e concisa, facilitando o entendimento por parte dos clientes em potencia
+Criação de uma landing page simples é uma ótima maneira para uma empresa fictícia apresentar seus planos, preços e valores aos clientes. Essa aplicação pode ser efetiva para destacar os principais benefícios dos produtos ou serviços oferecidos pela empresa. Além disso, um layout limpo e organizado pode ajudar a transmitir a mensagem de forma clara e concisa, facilitando o entendimento por parte dos clientes.
 
 # 🎯Objetivo 
 
