@@ -19,7 +19,7 @@ O objetivo do projeto é desenvolver uma aplicação para apresentação de seus
 
 
 # 🔗 Deploy projeto
-- Deploy Vercel: [clique aqui!](https://landing-page-ebon-xi.vercel.app/)
+- Deploy Vercel: [clique aqui!](https://landing-page-git-main-adrianaramss.vercel.app/)
 
 # 🛰Executar o projeto localmente
 ### Instalando
